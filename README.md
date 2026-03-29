@@ -51,6 +51,15 @@ pip install numpy pandas matplotlib scikit-learn tensorflow xgboost mlxtend
 - Familiarity with Python basics (see [python_learning modules 01–05](https://github.com/triplom/python_learning))
 - NumPy and Pandas basics (see [python_learning modules 08–09](https://github.com/triplom/python_learning))
 
+## Related Projects
+
+| Project | Relationship |
+|---------|-------------|
+| [python_learning](https://github.com/triplom/python_learning) | **Prerequisite** — Python foundations (Modules 01–05), NumPy/Pandas (10), Scikit-learn (11), Keras/TF (12), NLP (13) must be covered before or alongside this lab |
+| [kali-hacking-lab](https://github.com/triplom/kali-hacking-lab) | **Shared skill set** — ML anomaly detection and NLP techniques apply to threat intelligence and log analysis (Month 3 Vulnerability Analysis, Month 9 Sniffing) |
+| [LearningGamification](https://github.com/triplom/LearningGamification) | **Applied ML opportunity** — the gamification engine's point scoring and course recommendations can be extended with regression/classification/NLP models from this lab |
+| [lpic3-study-lab](https://github.com/triplom/lpic3-study-lab) | **Infrastructure for ML** — LPIC-3 305 Virtualization covers containerising Python/ML workloads with Docker; 701 DevOps covers CI/CD pipelines for model deployment |
+
 ## Roadmap
 
 See [study-plan/README.md](study-plan/README.md) for the full phase-by-phase curriculum.
